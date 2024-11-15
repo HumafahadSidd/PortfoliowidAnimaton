@@ -1,14 +1,12 @@
-import Btn from "./btn";
-import Input from "../../components/input";
-
+import React from "react";
 export default function Contact() {
     return (
       <div>
-        <p className="bg-blue-800 p-4 text-center text-black">Contact page</p>         
-      <div className="bg-pink-400 rounded mx-2"> <Btn/> </div>
+       <div className="grid grid-cols-1 h-screen lg:grid-cols-12">
       
-      <input />
       
+      
+      </div>
       </div>
     );
   }
