@@ -9,7 +9,7 @@ export default function Navbar() {
         <div className='flex flex-wrap items-center justify-between mx-auto  '>
          <Link href="/" className='text-4xl  font-semibold text-white ml-4'>HS </Link>
         
-<div className="text-white ">
+<div className="text-white">
 <ul className='flex flex-wrap items-center justify-between mx-auto p-8 gap-4 '>
       <li><Link href="/About">About</Link></li>
       <li> <Link href="/contact">Contact</Link></li>
