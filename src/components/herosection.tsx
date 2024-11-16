@@ -10,8 +10,8 @@ export default function Herosection() {
       <div className="grid grid-cols-1 h-screen lg:grid-cols-12">
   
 <div className="col-span-7 sm:text-left place-self-center">
-  <h1 className="text-white mb-4 text-4xl sm:text-5xl lg:text-6xl font-extrabold mt-4">
-    <span className='text-transparent bg-clip-text  bg-gradient-to-br from-blue-500 to bg-pink-600'>Hello, I m {" "}
+  <h1 className="text-white mb-4 text-4xl sm:text-5xl lg:text-6xl font-extrabold mt-2">
+    <span className='text-transparent bg-clip-text  bg-gradient-to-br from-blue-500 to bg-pink-600'>Hello, I am {" "}
   </span>
     <br /> <span>HUMA SIDD</span><br />
     <TypeAnimation

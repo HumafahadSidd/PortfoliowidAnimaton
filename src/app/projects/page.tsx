@@ -5,12 +5,12 @@ function Projects() {
   return (
     <div className="h-screen bg-gray-900 text-white">
       <div >
-       <h1>Here are some latest Projects on which i have worked</h1>
+       <h1 className='text-center pt-4 pb-2'>Here are some latest Projects on which i have worked</h1>
        <div className=''>
 
         <div className='flex '>
         {/* pic1 */}
-        <div className=' pl-4 pr-4 pt-4 pb-4'>
+        <div className=' pc1 pl-4 pr-4 pt-4 pb-4'>
         <Image src="/images/attendeForm.png" alt="atendeeForm" width={200} height={200} />
         </div> 
        {/* pic2 */}
